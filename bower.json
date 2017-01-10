@@ -1,0 +1,22 @@
+{
+  "name": "riotjs-w3howto",
+  "homepage": "https://github.com/manhg/riotjs-w3howto",
+  "authors": [
+    "Giang Manh"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "riot": "riotjs#^2.2.4"
+  }
+}
